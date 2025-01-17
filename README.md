@@ -1,8 +1,19 @@
-### School 19 Curriculum Progress
-| No | Project                                                     | Status  |   | No | Project     | Status |   | No | Project                  | Status |
-|----|-------------------------------------------------------------|---------|---|----|-------------|--------|---|----|--------------------------|--------|
-| 1  | [Libft](https://github.com/gt-serst/Libft)                  | ✅       |   | 6  | [pipex](https://github.com/gt-serst/pipex)              |  ✅    |   | 11 | [Cub3D](https://github.com/gt-serst/Cub3D)        | ✅     |
-| 2  | [ft_printf](https://github.com/gt-serst/ft_printf)          | ✅       |   | 7  | [so_long](https://github.com/gt-serst/so_long)          |  ✅    |   | 12 | [CPP Modules](https://github.com/gt-serst/CPP)    | ✅     |
-| 3  | [get_next_line](https://github.com/gt-serst/get_next_line)  | ✅       |   | 8  | [Philosophers](https://github.com/gt-serst/Philosophers)|  ✅    |   | 13 | [Inception](https://github.com/gt-serst/Inception)| ✅     |
-| 4  | [Born2beroot](https://github.com/gt-serst/Born2beroot)      | ✅       |   | 9  | [minishell](https://github.com/gt-serst/minishell)      |  ✅    |   | 14 | [webserv](https://github.com/gt-serst/webserv)    | ✅     |
-| 5  | [push_swap](https://github.com/gt-serst/push_swap)          | ✅       |   | 10 | [NetPractice](https://github.com/gt-serst/NetPractice)  |  ✅    |   | 15 | [transcendence](https://github.com/cormobro/Ft_transcendence)                              | 👨🏽‍💻       |
+### Hi there 👋
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
+</p>
