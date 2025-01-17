@@ -17,3 +17,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 </p>
+![Gt-serst's GitHub stats](https://github-readme-stats.vercel.app/api?username=gt-serst&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gt-serst)
